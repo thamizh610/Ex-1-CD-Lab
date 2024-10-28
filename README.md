@@ -13,7 +13,7 @@
 # PROGRAM
 Program to implement a Symbol Table.
 
-Developed by : Thamizarasan S
+Developed by : Thamizarasan .S
 
 RegisterNumber : 212223220116
 ```
